@@ -1,7 +1,7 @@
 {
-  "name": "react-monorepo-example",
+  "name": "react-monorepo",
   "version": "1.0.0",
-  "description": "example of a react/react-native monorepo",
+  "description": "react/react-native monorepo",
   "main": "index.js",
   "author": "nikofarrelly",
   "license": "MIT",

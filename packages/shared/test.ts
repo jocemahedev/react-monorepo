@@ -1,1 +1,4 @@
-export const testNumber = 50;
+
+
+
+export const testNumber = process.env.REACT_APP_TEST_KEY;
